@@ -29,14 +29,14 @@ Attribute | Definition
 </details>
 
 
-# 3. Business Assumptions.
+## 3. Business Assumptions.
 
 - Indicate customers who will be part of a loyalty program called Insiders.
 - What are the main characteristics of these customers? Ticket, bascket size, high LTV, churn probability,high TVC prevision, purchasing propensity, age, location.
 - How many customers will be part os this group?
 - RFM model (recency, frequency,, monetary): sorted data to have a RFM Score.
 
-# 4. Solution Strategy
+## 4. Solution Strategy
 
 0. Tools
 
